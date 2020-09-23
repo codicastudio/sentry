@@ -1,11 +1,11 @@
 {
-  "name": "codicastudio/sentry",
+  "name": "codica-studio/sentry",
   "type": "library",
-  "description": "A noobs worthless garbage, just learning.",
+  "description": "A random Codica Studio package.",
   "keywords": [
-      "worthless garabage by a noob."
+      ""
   ],
-  "homepage": "https://github.com/codicastudio/sentry",
+  "homepage": "https://github.com/codica-studio/sentry",
   "license": "MIT",
   "authors": [
       {
@@ -16,7 +16,7 @@
       }
   ],
   "require": {
-    "php": "^7.4",
+    "php": "^7.4 || ^8.0",
     "illuminate/support": "^8.0",
     "sentry/sdk": "^2.1"
   },
