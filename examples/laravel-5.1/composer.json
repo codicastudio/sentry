@@ -1,11 +1,11 @@
 {
     "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "description": "Masterbase framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=5.5.9",
+        "php": "^7.4 || ^8.0",
         "laravel/framework": "5.1.*",
         "sentry/sentry": "dev-master",
         "sentry/sentry-laravel": "dev-master"
@@ -48,7 +48,7 @@
     "config": {
         "preferred-install": "dist"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "repositories": [
         {

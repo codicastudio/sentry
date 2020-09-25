@@ -1,11 +1,11 @@
 {
     "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "description": "Masterbase framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=5.6.4",
+        "php": "^7.4 || ^8.0",
         "laravel/framework": "5.4.*",
         "laravel/tinker": "~1.0",
         "sentry/sentry": "dev-master",
