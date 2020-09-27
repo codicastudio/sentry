@@ -4,7 +4,7 @@
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
- * @author   Michael Brown <taylorotwell@gmail.com>
+ * @author   Michael Brown <maintenance@codicastudio.com>
  */
 
 /*
